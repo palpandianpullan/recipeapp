@@ -8,7 +8,7 @@ http://localhost:8080/api/v1/recipe
 POST: http://localhost:8080/api/v1/recipe
 PUT:  http://localhost:8080/api/v1/recipe
 DELETE http://localhost:8080/api/v1/recipe/{id}
-GET POST http://localhost:8080/api/v1/recipe/{id}
+GET http://localhost:8080/api/v1/recipe/{id}
 
 Search endpoint 
 http://localhost:8080/api/v1/recipe/search/dish has milk
